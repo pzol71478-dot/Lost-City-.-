@@ -16,4 +16,5 @@ async def ping(ctx):
     await ctx.send('pong! البوت شغال تمام')
 
 
-bot.run('MTUyMDE2NzUyMjAwMjAxMDE0Mg.G8UnIy.eYizw57j4ydSyZF43tKVa6N4SAowDnRYgyzQPo')
+@bot.run('MTUyMDE2NzUyMjAwMjAxMDE0Mg.GdLekR.PlqlOSStV1w4pg1lUC3qN3E97gpMBlI9TBVsVc')
+
